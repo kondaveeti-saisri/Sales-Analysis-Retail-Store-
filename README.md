@@ -11,7 +11,7 @@ This project analyzes Walmart retail sales data using **Pandas, data cleaning, a
   - Find the best-performing suppliers 🏆
 
 ## 📂 Files in This Repository
-- `Warehouse_and_Retail_Sales.ipynb` → Jupyter Notebook with the full analysis
+- `Untitled5.ipynb` → Jupyter Notebook with the full analysis
 - `Warehouse_and_Retail_Sales.csv` → Cleaned dataset after preprocessing
 - `README.md` → Explanation of the project
 
@@ -25,13 +25,7 @@ Wine is the best-selling category, contributing significantly to total sales.
 🏢 Top Suppliers:
 
 Republic National Distributing Co and PWSWN Inc are among the top suppliers with the highest retail sales
-## 🚀 How to Run the Project
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/Retail-Sales-Analysis.git
-   ```
-2. Open `Warehouse_and_Retail_Sales.ipynb` in Jupyter Notebook.  
-3. Run the notebook to explore insights and visualizations.
+
 
 ## 📌 Future Improvements
 - Forecasting future sales using Machine Learning 🤖  
